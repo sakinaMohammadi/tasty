@@ -1,14 +1,11 @@
 
 TITLE: 
-Tasty - 100% Fully Responsive Free HTML5 Bootstrap Template for Restaurant
+Tasty
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Sakina Mohammadi
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
+Website: http://sakina-mohammadi.xyz
 
 CREDITS:
 
